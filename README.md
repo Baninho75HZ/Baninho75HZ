@@ -12,8 +12,8 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Levi-C" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Levi-C++" width="40" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Levi-C" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Levi-C++" width="30" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img src="https://media.discordapp.net/attachments/941211984085520408/1552306294969339974/avatar.png?ex=6ab52165&is=6ab3cfe5&hm=f7c668a5e531c05ea5deaa4ce81de6cb3d128b38e53ff9dbfee81e3ab37cab34&=&format=webp&quality=lossless" width="70" align="right">
 </div>
   
@@ -27,3 +27,5 @@
   <a href="https://www.linkedin.com/in/levi-lopes-gama-santos-4a18a2338/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
+
+![Snake Animation](https://github.com/Baninho7HZ/Baninho7HZ/blob/output/github-contribution-grid-snake.svg)
