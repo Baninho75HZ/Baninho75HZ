@@ -27,5 +27,3 @@
   <a href="https://www.linkedin.com/in/levi-lopes-gama-santos-4a18a2338/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
 </div>
-
-![Snake Animation](https://github.com/Baninho7HZ/Baninho7HZ/blob/output/github-contribution-grid-snake.svg)
